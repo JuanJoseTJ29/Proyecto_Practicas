@@ -2,7 +2,7 @@ streamlit==0.68.1
 pandas
 base58==2.0.0
 matplotlib
-numpy
+numpy==1.24.3
 yfinance
 lxml
 pandas_datareader
