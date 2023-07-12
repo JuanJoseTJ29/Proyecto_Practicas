@@ -2,11 +2,11 @@ streamlit==0.68.1
 pandas
 base58==2.0.0
 matplotlib
-numpy==1.24.3
+numpy==1.22.0
 yfinance
 lxml
 pandas_datareader
-tensorflow
+tensorflow==2.13.0
 keras
 scikit-learn
 plotly
