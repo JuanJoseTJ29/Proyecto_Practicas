@@ -1,6 +1,6 @@
 import streamlit as st
 from multiapp import MultiApp
-from apps import  dolar, euro #, model1 # import your app modules here
+# from apps import  dolar, euro #, model1 # import your app modules here
 
 app = MultiApp()
 
