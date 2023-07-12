@@ -15,7 +15,7 @@ st.title('Integrantes:')
 st.write('- Tirado Julca Juan Jose')
 
 
-st.title('Escoja la divisa:')
+st.title('Escoja el modelo :')
 
 # Add all your application here
 #app.add_app("Home", home.app)
