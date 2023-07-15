@@ -1,4 +1,4 @@
-streamlit
+streamlit==0.68.1
 pandas
 base58==2.0.0
 matplotlib
